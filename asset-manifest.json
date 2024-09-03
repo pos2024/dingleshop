@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dingleshop/static/css/main.fb5786ab.css",
+    "main.js": "/dingleshop/static/js/main.de34612b.js",
+    "static/media/back2.png": "/dingleshop/static/media/back2.152677e34a2b37e1057f.png",
+    "index.html": "/dingleshop/index.html",
+    "main.fb5786ab.css.map": "/dingleshop/static/css/main.fb5786ab.css.map",
+    "main.de34612b.js.map": "/dingleshop/static/js/main.de34612b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5786ab.css",
+    "static/js/main.de34612b.js"
+  ]
+}
